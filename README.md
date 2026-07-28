@@ -2,14 +2,14 @@
 
 | Player | GitHub |
 |:------:|:------:|
-| ❌ | @your-username |
+| ❌ | @IMOitself |
 | ⭕ | @their-username |
 
-| 🟦 | 🟦 | 🟦 |
+| ❌ | 🟦 | 🟦 |
 |:--:|:--:|:--:|
 | 🟦 | 🟦 | 🟦 |
 | 🟦 | 🟦 | 🟦 |
 
-**Turn:** ❌
+**Turn:** ⭕
 
 Open a pull request to claim your square.
